@@ -1,0 +1,17 @@
+# Build artifacts and local executables
+*.exe
+*.bin
+*.elf
+*.map
+
+# Local media and private configuration
+server/Music.mp3
+*.local.*
+*.secrets.*
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
