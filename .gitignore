@@ -6,6 +6,9 @@
 
 # Local media and private configuration
 server/Music.mp3
+README.md
+requirements.txt
+MID_5.fzz
 *.local.*
 *.secrets.*
 
